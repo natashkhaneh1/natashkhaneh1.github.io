@@ -1,16 +1,15 @@
 body, html {
     height: 100%;
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
   }
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("image1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("image1.png");
     height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 25%;
+    padding-right: 25%;
   }
   
   .hero-text {
@@ -23,10 +22,11 @@ body, html {
   }
   
   .hero-text button {
+    font-size: 20px;
     border-color: antiquewhite;
-    padding: 10px 25px;
+    padding: 5px 12px;
     color: rgb(228, 228, 228);
-    background-color: rgb(85, 85, 85, 0.7);
+    background-color: rgb(85, 85, 85, 0.3);
   }
   
   .hero-text button:hover {

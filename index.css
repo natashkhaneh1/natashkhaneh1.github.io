@@ -87,11 +87,11 @@ body, html {
 }
 
 .section3 {
-  height: 250px;
+  height: 300px;
 }
 
 .boxes1 {
-height: 250px;
+height: 275px;
 }
 .subjectbox {
   width: 430px;
@@ -119,7 +119,7 @@ height: 250px;
 .margfooter {
   font-size: 17px;
   color: rgb(153, 153, 153);
-  margin-top: 4%;
+  margin-top: 3.5%;
   margin-left: 30%;
 }
 
@@ -127,7 +127,7 @@ height: 250px;
   margin: 30px;
   font-size: 20px;
   color: rgb(228, 228, 228);
-  border: 3px solid;
+  border: 2px solid;
   border-color: antiquewhite;
   background-color: rgb(85, 85, 85, 0.3);
   justify-content: center;
@@ -136,4 +136,8 @@ height: 250px;
 .gitlink a:hover {
   background-color: rgb(85, 85, 85);
   text-decoration: none;
+}
+
+.width2 {
+  width: 400px;
 }

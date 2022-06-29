@@ -123,3 +123,17 @@ height: 250px;
   margin-left: 30%;
 }
 
+.gitlink a{
+  margin: 30px;
+  font-size: 20px;
+  color: rgb(228, 228, 228);
+  border: 3px solid;
+  border-color: antiquewhite;
+  background-color: rgb(85, 85, 85, 0.3);
+  justify-content: center;
+}
+
+.gitlink a:hover {
+  background-color: rgb(85, 85, 85);
+  text-decoration: none;
+}

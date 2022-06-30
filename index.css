@@ -141,3 +141,14 @@ height: 275px;
 .width2 {
   width: 400px;
 }
+
+.imgbox {
+  border: 5px solid;
+  width: 400px;
+  height: 400px;
+}
+
+.divmargin {
+  margin-right: 100px;
+  margin-left: 100px;
+}
